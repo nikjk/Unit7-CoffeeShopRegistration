@@ -1,0 +1,15 @@
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\obj\Debug\net6.0\TempMidTerm.csproj.AssemblyReference.cache
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\obj\Debug\net6.0\TempMidTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\obj\Debug\net6.0\TempMidTerm.AssemblyInfoInputs.cache
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\obj\Debug\net6.0\TempMidTerm.AssemblyInfo.cs
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\obj\Debug\net6.0\TempMidTerm.csproj.CoreCompileInputs.cache
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\bin\Debug\net6.0\TempMidTerm.exe
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\bin\Debug\net6.0\TempMidTerm.deps.json
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\bin\Debug\net6.0\TempMidTerm.runtimeconfig.json
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\bin\Debug\net6.0\TempMidTerm.dll
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\bin\Debug\net6.0\TempMidTerm.pdb
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\obj\Debug\net6.0\TempMidTerm.dll
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\obj\Debug\net6.0\refint\TempMidTerm.dll
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\obj\Debug\net6.0\TempMidTerm.pdb
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\obj\Debug\net6.0\TempMidTerm.genruntimeconfig.cache
+C:\Users\nikku\source\repos\TempMidTermApp\TempMidTerm\obj\Debug\net6.0\ref\TempMidTerm.dll

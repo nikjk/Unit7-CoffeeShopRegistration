@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JOuyTbDWVtzvTEsswMpErxQ6rklr2qumRW6Dd6l7joih0cJfh3XrqMNr3Lctla0VZmVJWTPIk2W0fFlwF9h0fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikku\\source\\repos\\ASP.NET MVC Demo\\Demo_Intro\\Demo_Intro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikku\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

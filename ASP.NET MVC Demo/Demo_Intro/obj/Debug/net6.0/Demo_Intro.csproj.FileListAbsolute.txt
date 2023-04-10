@@ -1,0 +1,64 @@
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\bin\Debug\net6.0\wwwroot\images\condesa.jpg
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\bin\Debug\net6.0\appsettings.json
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\bin\Debug\net6.0\Demo_Intro.staticwebassets.runtime.json
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\bin\Debug\net6.0\Demo_Intro.exe
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\bin\Debug\net6.0\Demo_Intro.deps.json
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\bin\Debug\net6.0\Demo_Intro.runtimeconfig.json
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\bin\Debug\net6.0\Demo_Intro.dll
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\bin\Debug\net6.0\Demo_Intro.pdb
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\Demo_Intro.csproj.AssemblyReference.cache
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\Demo_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\Demo_Intro.AssemblyInfoInputs.cache
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\Demo_Intro.AssemblyInfo.cs
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\Demo_Intro.csproj.CoreCompileInputs.cache
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\Demo_Intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\Demo_Intro.RazorAssemblyInfo.cache
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\Demo_Intro.RazorAssemblyInfo.cs
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\staticwebassets\msbuild.Demo_Intro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\staticwebassets\msbuild.build.Demo_Intro.props
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Demo_Intro.props
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Demo_Intro.props
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\scopedcss\bundle\Demo_Intro.styles.css
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\scopedcss\projectbundle\Demo_Intro.bundle.scp.css
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\Demo_Intro.dll
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\refint\Demo_Intro.dll
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\Demo_Intro.pdb
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\Demo_Intro.genruntimeconfig.cache
+C:\Users\nikku\source\repos\CSharpBootcamp_Jan2023_AH\Unit_07_HTML_CSS_MVC_API\MVC_Demos\Demo_Intro\obj\Debug\net6.0\ref\Demo_Intro.dll
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\bin\Debug\net6.0\wwwroot\images\condesa.jpg
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\bin\Debug\net6.0\appsettings.json
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\bin\Debug\net6.0\Demo_Intro.staticwebassets.runtime.json
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\bin\Debug\net6.0\Demo_Intro.exe
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\bin\Debug\net6.0\Demo_Intro.deps.json
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\bin\Debug\net6.0\Demo_Intro.runtimeconfig.json
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\bin\Debug\net6.0\Demo_Intro.dll
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\bin\Debug\net6.0\Demo_Intro.pdb
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\Demo_Intro.csproj.AssemblyReference.cache
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\Demo_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\Demo_Intro.AssemblyInfoInputs.cache
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\Demo_Intro.AssemblyInfo.cs
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\Demo_Intro.csproj.CoreCompileInputs.cache
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\Demo_Intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\Demo_Intro.RazorAssemblyInfo.cache
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\Demo_Intro.RazorAssemblyInfo.cs
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\staticwebassets\msbuild.Demo_Intro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\staticwebassets\msbuild.build.Demo_Intro.props
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Demo_Intro.props
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Demo_Intro.props
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\scopedcss\bundle\Demo_Intro.styles.css
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\scopedcss\projectbundle\Demo_Intro.bundle.scp.css
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\Demo_Intro.dll
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\refint\Demo_Intro.dll
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\Demo_Intro.pdb
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\Demo_Intro.genruntimeconfig.cache
+C:\Users\nikku\source\repos\ASP.NET MVC Demo\Demo_Intro\obj\Debug\net6.0\ref\Demo_Intro.dll

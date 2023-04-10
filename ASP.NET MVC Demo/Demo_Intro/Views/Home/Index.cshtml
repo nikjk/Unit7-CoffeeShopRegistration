@@ -1,0 +1,16 @@
+﻿@*
+    At the top of your razor cshtml file, you can define the Model that is being passed over from the Controller.
+    To define the model, use this syntax: @model Type
+    - The m in model must be lowercase
+    - example: @model UserProfile
+
+    To reference the model in this file, use uppercase M
+    - example: @Model.FirstName
+*@
+
+@model List<UserProfile>
+
+@for (int i = 0; i < Model.Count; i++)
+{
+    <p>@Model[i].FirstName</p>
+}

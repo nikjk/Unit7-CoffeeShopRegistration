@@ -1,0 +1,33 @@
+﻿@model UserProfile
+
+@*
+    Model binding in ASP.NET
+
+    In ASP.NET MVC, when you submit a form with data and the corresponding action method in the controller is expecting
+    a full object as a parameter, the model binding process comes into play. Model binding is the process of mapping
+    form data to the properties of a model (an object) expected by the controller action method.
+
+    Our "HandleSubmit" action in our Home Controller is expecting an input of type 'UserProfile'.
+
+    ASP.NET will create a 'UserProfile' object for us. This object will be created based on the data coming from the form.
+    Remember, the form is making a *web request* and the request contains a payload with the data entered into the form.
+
+    ASP.NET will try its best to search for a way to create the object that the action is expecting. ASP.NET will search
+    for the data in various places, like the web request payload, or paramaters passed in the URL.
+
+*@
+
+<h1>Sign Up</h1>
+
+<form asp-controller="App" asp-action="HandleSubmit" method="post" role="form">
+    <label asp-for="FirstName">First Name: </label>
+    <input asp-for="FirstName" />
+
+    <label asp-for="LastName">Last Name: </label>
+    <input asp-for="LastName" />
+
+    <label asp-for="Email">Email Address: </label>
+    <input asp-for="Email" type="email"/>
+    
+    <input type="submit"/>
+</form>

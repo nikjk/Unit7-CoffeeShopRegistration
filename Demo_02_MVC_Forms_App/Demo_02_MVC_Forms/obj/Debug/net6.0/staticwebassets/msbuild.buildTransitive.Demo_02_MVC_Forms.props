@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Demo_02_MVC_Forms.props" />
+</Project>

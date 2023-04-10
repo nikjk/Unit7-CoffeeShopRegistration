@@ -1,0 +1,28 @@
+﻿@model UserProfile
+<h1>Registration</h1>
+
+<div id="container">
+    <form asp-controller="Registration" asp-action="HandleSubmit" method="post" role="form">
+    <div class="form-group">
+    <label asp-for="FirstName">First Name:</label>
+    <input asp-for="FirstName"/>
+    </div>
+    <p></p>
+    <div class="form-group">
+    <label asp-for="LastName">Last Name:</label>
+    <input asp-for="LastName">
+    </div>
+    <p></p>
+    <div class="form-group">
+    <label asp-for="Email">Email Addres:</label>
+    <input asp-for="Email" type="email"/>
+    </div>
+    <p></p>
+    <div class="form-group">
+    <label asp-for="Password">Password:</label>
+    <input asp-for="Password" type="password"/>
+    </div>
+    <p></p>
+    <input type="submit" />
+</form>
+</div>
